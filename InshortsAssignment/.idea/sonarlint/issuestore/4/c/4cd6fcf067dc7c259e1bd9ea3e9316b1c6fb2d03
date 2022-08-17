@@ -1,0 +1,27 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ê—ãÏ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ã¹“
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ıµ° ûÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(™´í­
+n
+java:S1104"XMake appComponent a static final constant or non-public and provide accessors if needed.(ê—ãÏ
+H
+java:S1444"2Make this "public static appComponent" field final(ê—ãÏ
+W
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(¾ã¶º
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Î¢È
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÀˆÃà
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(é²¸Èùÿÿÿÿ
+4
+java:S1451"&Add or update the header of this file.
+>
+java:S3306")Use constructor injection for this field.(Ì¯ÄY
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(üåêùúÿÿÿÿ

@@ -1,0 +1,72 @@
+
+Y
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ŠŽîQ
+Y
+java:S1120,"DMake this line start after 4 spaces to indent the code consistently.(‘Å¹i
+_
+java:S11205"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+_
+java:S11207"DMake this line start after 6 spaces to indent the code consistently.(¦¼³ñúÿÿÿÿ
+_
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(ì¯ªóþÿÿÿÿ
+_
+java:S1120E"DMake this line start after 4 spaces to indent the code consistently.(ÕÉÈ¹üÿÿÿÿ
+_
+java:S1120J"DMake this line start after 4 spaces to indent the code consistently.(ìâÚëøÿÿÿÿ
+Z
+java:S1120_"DMake this line start after 6 spaces to indent the code consistently.(íÒƒ
+_
+java:S1120a"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ýÿÿÿÿ
+`
+java:S1120h"EMake this line start after 10 spaces to indent the code consistently.(Ïü«Êûÿÿÿÿ
+[
+java:S1120i"EMake this line start after 12 spaces to indent the code consistently.(üœ¹Â
+[
+java:S1120j"EMake this line start after 14 spaces to indent the code consistently.(Ëí™â
+`
+java:S1120l"EMake this line start after 14 spaces to indent the code consistently.(å„«„øÿÿÿÿ
+_
+java:S1120s"DMake this line start after 4 spaces to indent the code consistently.(·¡÷±üÿÿÿÿ
+>
+java:S1604f"(Make this anonymous inner class a lambda(©ç—³
+4	java:S113"'Add a new line at the end of this file.
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÜÊËŽ
+\
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(ÿ­Û÷ûÿÿÿÿ
+W
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(ö©—ö
+W
+java:S11064"AMove this left curly brace to the beginning of next line of code.(ßìê¯
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(ÃÝúÝ
+\
+java:S1106="AMove this left curly brace to the beginning of next line of code.(´ŒÐÚùÿÿÿÿ
+W
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(¡Œþø
+W
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(ŠÕ¾ñ
+\
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+\
+java:S1106`"AMove this left curly brace to the beginning of next line of code.(âÃƒŠýÿÿÿÿ
+W
+java:S1106f"AMove this left curly brace to the beginning of next line of code.(©ç—³
+\
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(Ïü«Êûÿÿÿÿ
+W
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(üœ¹Â
+W
+java:S1106k"AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+W
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(†ÎÕó
+4
+java:S1451"&Add or update the header of this file.
+?
+java:S3306!")Use constructor injection for this field.(˜¯Ý¿
+O
+java:S1135%"2Complete the task associated to this TODO comment.(Ê¢¨¹8êË¼úª0
+M
+java:S1108`"2Move this "catch" keyword to a new dedicated line.(âÃƒŠýÿÿÿÿ
+G
+java:S1108k"1Move this "else" keyword to a new dedicated line.(å¥ž‡

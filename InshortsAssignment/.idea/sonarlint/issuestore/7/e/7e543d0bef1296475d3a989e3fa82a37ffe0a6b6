@@ -1,0 +1,10 @@
+
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¨¼Ö­8µÏòÏ¨0
+s	java:S118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(åˆŒ»
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(åˆŒ»
+4
+java:S1451"&Add or update the header of this file.
+P
+java:S1694"3Convert this "BuildersModule" class to an interface(åˆŒ»8Œÿ¸Ð¨0

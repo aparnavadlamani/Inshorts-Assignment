@@ -1,0 +1,91 @@
+
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ûœ¯€øÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¥„´îıÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¹øóŒÿÿÿÿÿ
+`
+java:S1120"EMake this line start after 10 spaces to indent the code consistently.(„ğÉ‰úÿÿÿÿ
+[
+java:S1120"EMake this line start after 12 spaces to indent the code consistently.(Ğ©â
+[
+java:S1120!"EMake this line start after 26 spaces to indent the code consistently.(›‹›
+_
+java:S1120,"DMake this line start after 4 spaces to indent the code consistently.(¹øóŒÿÿÿÿÿ
+`
+java:S1120."EMake this line start after 10 spaces to indent the code consistently.(„ğÉ‰úÿÿÿÿ
+[
+java:S1120/"EMake this line start after 12 spaces to indent the code consistently.(Û«Œ
+[
+java:S11201"EMake this line start after 22 spaces to indent the code consistently.(›‹›
+a
+java:S1120<"DMake this line start after 4 spaces to indent the code consistently.(ªğîÉ8ëÛ¦âª0
+g
+java:S1120>"EMake this line start after 10 spaces to indent the code consistently.(„ğÉ‰úÿÿÿÿ8àº¦âª0
+g
+java:S1120?"EMake this line start after 12 spaces to indent the code consistently.(«áøûÿÿÿÿ8àº¦âª0
+_
+java:S1120G"DMake this line start after 4 spaces to indent the code consistently.(­¤¹¤ÿÿÿÿÿ
+Z
+java:S1120L"DMake this line start after 4 spaces to indent the code consistently.(Âöú‚
+`
+java:S1120M"EMake this line start after 10 spaces to indent the code consistently.(º¿öçüÿÿÿÿ
+Z
+java:S1120S"DMake this line start after 4 spaces to indent the code consistently.(ÅøÕŞ
+Z
+java:S1120X"DMake this line start after 4 spaces to indent the code consistently.(Âöú‚
+[
+java:S1120Y"EMake this line start after 10 spaces to indent the code consistently.(¶…Æñ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‡ÎÑ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(­¼©Çøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÁîÎ¾ÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(–¢şÁüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(„ğÉ‰úÿÿÿÿ
+\
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(´©İ’ûÿÿÿÿ
+\
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(–¢şÁüÿÿÿÿ
+\
+java:S1106."AMove this left curly brace to the beginning of next line of code.(„ğÉ‰úÿÿÿÿ
+V
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(æ§‚M
+\
+java:S1106="AMove this left curly brace to the beginning of next line of code.(–¢şÁüÿÿÿÿ
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(„ğÉ‰úÿÿÿÿ
+W
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(éş¸ô
+W
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(èñ¿«
+^
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(ÑÅ³¬8çº¦âª0
+^
+java:S1106W"AMove this left curly brace to the beginning of next line of code.(îÄ’8èº¦âª0
+4
+java:S1451"&Add or update the header of this file.
+e	java:S103"KSplit this 126 characters long line (which is greater than 120 authorized).(–¢şÁüÿÿÿÿ
+`	java:S103'"KSplit this 138 characters long line (which is greater than 120 authorized).(ÒÓ“ã
+e	java:S103-"KSplit this 126 characters long line (which is greater than 120 authorized).(–¢şÁüÿÿÿÿ
+`	java:S1037"KSplit this 138 characters long line (which is greater than 120 authorized).(ÒÓ“ã
+l	java:S103="KSplit this 126 characters long line (which is greater than 120 authorized).(–¢şÁüÿÿÿÿ8ñº¦âª0
+g	java:S103B"KSplit this 127 characters long line (which is greater than 120 authorized).(•Ëü8‰×§âª0
+f
+java:S1941"KMove the declaration of "observableFromDb" closer to the code that uses it.(¹øóŒÿÿÿÿÿ
+:
+java:S2211 "$Specify a type for: 'movieListItems'(ß¼úê
+f
+java:S1941,"KMove the declaration of "observableFromDb" closer to the code that uses it.(¹øóŒÿÿÿÿÿ
+:
+java:S22110"$Specify a type for: 'movieListItems'(ß¼úê
+h
+java:S1941<"KMove the declaration of "observableFromDb" closer to the code that uses it.(ªğîÉ8ıº¦âª0
+B
+java:S1602L",Remove useless curly braces around statement(Âöú‚
+B
+java:S1602X",Remove useless curly braces around statement(Âöú‚

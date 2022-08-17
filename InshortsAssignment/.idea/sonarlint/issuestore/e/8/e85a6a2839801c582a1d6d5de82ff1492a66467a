@@ -1,0 +1,84 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¼³Êö
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¡®Õùÿÿÿÿ
+_
+java:S1120 "DMake this line start after 4 spaces to indent the code consistently.(°ıúÿÿÿÿÿ
+_
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(¢€Á‡ùÿÿÿÿ
+Z
+java:S1120*"DMake this line start after 4 spaces to indent the code consistently.(æ†Æü
+_
+java:S11200"DMake this line start after 4 spaces to indent the code consistently.(¨›Êéıÿÿÿÿ
+_
+java:S11206"DMake this line start after 4 spaces to indent the code consistently.(’ÆÛåûÿÿÿÿ
+Z
+java:S1120<"DMake this line start after 4 spaces to indent the code consistently.(äÚë
+`
+java:S1120>"EMake this line start after 10 spaces to indent the code consistently.(ˆ·°Èıÿÿÿÿ
+`
+java:S1120?"EMake this line start after 12 spaces to indent the code consistently.(³ĞÀüÿÿÿÿ
+Z
+java:S1120I"DMake this line start after 4 spaces to indent the code consistently.(äÚë
+`
+java:S1120K"EMake this line start after 10 spaces to indent the code consistently.(ˆ·°Èıÿÿÿÿ
+`
+java:S1120L"EMake this line start after 12 spaces to indent the code consistently.(º…ç¯ûÿÿÿÿ
+Z
+java:S1120V"DMake this line start after 4 spaces to indent the code consistently.(Å¹½¡
+_
+java:S1120\"DMake this line start after 4 spaces to indent the code consistently.(˜æ¬Éûÿÿÿÿ
+Z
+java:S1120`"DMake this line start after 4 spaces to indent the code consistently.(Šàú½
+f
+java:S1120e"DMake this line start after 4 spaces to indent the code consistently.(ÌĞôüúÿÿÿÿ8áé‚ùª0
+f
+java:S1120g"DMake this line start after 6 spaces to indent the code consistently.(¡µÚ˜ùÿÿÿÿ8µ¤„ùª0
+<
+java:S2325%"!Make "onError" a "static" method.(èàÒğûÿÿÿÿ
+4	java:S113"'Add a new line at the end of this file.
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Œ•ß¤
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ä¹¹º
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ï¬âûÿÿÿÿ
+\
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(èàÒğûÿÿÿÿ
+W
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(¶‚šÀ
+W
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(á¤òÅ
+\
+java:S11065"AMove this left curly brace to the beginning of next line of code.(º«í€øÿÿÿÿ
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(ŒƒÁ·şÿÿÿÿ
+W
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(äÚë
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(ˆ·°Èıÿÿÿÿ
+W
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(âãúÚ
+W
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(äÚë
+\
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(ˆ·°Èıÿÿÿÿ
+\
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(…¡…Ëûÿÿÿÿ
+\
+java:S1106["AMove this left curly brace to the beginning of next line of code.(ËŸ„şÿÿÿÿ
+\
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(½¹‚ûûÿÿÿÿ
+c
+java:S1106d"AMove this left curly brace to the beginning of next line of code.(Áüõöùÿÿÿÿ8êé‚ùª0
+c
+java:S1106f"AMove this left curly brace to the beginning of next line of code.(µÃÄËúÿÿÿÿ8½¤„ùª0
+4
+java:S1451"&Add or update the header of this file.
+n	java:S116"YRename this field "_movieListData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŠÈ
+v	java:S116"\Rename this field "_isMovieFavourite" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—íîÉøÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(€Êôúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(°¼Õ¤ûÿÿÿÿ

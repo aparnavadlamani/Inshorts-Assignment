@@ -1,0 +1,105 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(˜¯İ¿
+Z
+java:S1120("DMake this line start after 4 spaces to indent the code consistently.(À¦Õ
+_
+java:S1120-"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+_
+java:S11204"DMake this line start after 4 spaces to indent the code consistently.(ù…Ğÿÿÿÿÿ
+_
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(ÕÉÈ¹üÿÿÿÿ
+_
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(ìâÚëøÿÿÿÿ
+`
+java:S1120F"EMake this line start after 10 spaces to indent the code consistently.(µîÉ—úÿÿÿÿ
+[
+java:S1120G"EMake this line start after 12 spaces to indent the code consistently.(ÏÍÙÕ
+[
+java:S1120H"EMake this line start after 14 spaces to indent the code consistently.(Âİ€
+[
+java:S1120J"EMake this line start after 14 spaces to indent the code consistently.(©ˆçİ
+[
+java:S1120L"EMake this line start after 14 spaces to indent the code consistently.(Œÿ¾
+Z
+java:S1120]"DMake this line start after 4 spaces to indent the code consistently.(É¦óº
+Z
+java:S1120f"DMake this line start after 4 spaces to indent the code consistently.(Ø¤ŒŠ
+_
+java:S1120n"DMake this line start after 4 spaces to indent the code consistently.(½®¸ïúÿÿÿÿ
+_
+java:S1120t"DMake this line start after 4 spaces to indent the code consistently.(øå´¡ÿÿÿÿÿ
+Z
+java:S1120v"DMake this line start after 8 spaces to indent the code consistently.(ÔŸ­é
+Z
+java:S1120€"DMake this line start after 2 spaces to indent the code consistently.(Å à^
+l	java:S109^"RAssign this magic number 3 to a well-named constant, and use the constant instead.(Óî¼ßúÿÿÿÿ
+­
+java:S1200"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 21 to the maximum authorized 20 or less.(™‹Å‚ıÿÿÿÿ
+f
+java:S1301t"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+4	java:S113"'Add a new line at the end of this file.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(™‹Å‚ıÿÿÿÿ
+W
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(‚µ¦Ü
+V
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(¥Ë©
+V
+java:S11063"AMove this left curly brace to the beginning of next line of code.(š–×~
+W
+java:S11069"AMove this left curly brace to the beginning of next line of code.(¡Œşø
+W
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(ŠÕ¾ñ
+W
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(´ü»
+\
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(µîÉ—úÿÿÿÿ
+W
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(ÏÍÙÕ
+W
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(ôı—ö
+W
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(ÜÔ´“
+W
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(ÖˆÉé
+\
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(€Ô¸Æùÿÿÿÿ
+V
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(¬Î—9
+\
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(¯ØëÉùÿÿÿÿ
+V
+java:S1106m"AMove this left curly brace to the beginning of next line of code.(å°¥
+\
+java:S1106s"AMove this left curly brace to the beginning of next line of code.(èëÔíÿÿÿÿÿ
+\
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(øå´¡ÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(°éÊÖüÿÿÿÿ
+4
+java:S1451"&Add or update the header of this file.
+`	java:S103h"KSplit this 127 characters long line (which is greater than 120 authorized).(Ïõú
+`	java:S103x"KSplit this 123 characters long line (which is greater than 120 authorized).(ãõªÄ
+`
+java:S1996"RThere are 2 top-level types in this file; move all but one of them to other files.
+U
+java:S1258":Add a constructor to the class, or provide default values.(™‹Å‚ıÿÿÿÿ
+?
+java:S3306")Use constructor injection for this field.(˜¯İ¿
+H
+java:S1135#"2Complete the task associated to this TODO comment.(òšæš
+H
+java:S1135$"2Complete the task associated to this TODO comment.(õÃúÊ
+M
+java:S1135%"2Complete the task associated to this TODO comment.(˜§—…úÿÿÿÿ
+—
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖˆÉé
+œ
+java:S1186V"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€Ô¸Æùÿÿÿÿ
+G
+java:S1108I"1Move this "else" keyword to a new dedicated line.(ôı—ö
+P	java:S126K";"if ... else if" constructs should end with "else" clauses.(ÜÔ´“
+G
+java:S1108K"1Move this "else" keyword to a new dedicated line.(ÜÔ´“
+<	java:S131t""Add a default case to this switch.(øå´¡ÿÿÿÿÿ

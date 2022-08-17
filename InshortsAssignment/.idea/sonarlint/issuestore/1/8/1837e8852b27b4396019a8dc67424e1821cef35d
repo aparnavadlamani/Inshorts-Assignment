@@ -1,0 +1,66 @@
+
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(˜¯Ý¿
+Z
+java:S1120'"DMake this line start after 4 spaces to indent the code consistently.(¡ÀË
+_
+java:S1120-"DMake this line start after 4 spaces to indent the code consistently.(î±¨Ôøÿÿÿÿ
+_
+java:S11204"DMake this line start after 4 spaces to indent the code consistently.(áÉÂ¬øÿÿÿÿ
+_
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(ÕÉÈ¹üÿÿÿÿ
+_
+java:S1120?"DMake this line start after 4 spaces to indent the code consistently.(ìâÚëøÿÿÿÿ
+`
+java:S1120H"EMake this line start after 10 spaces to indent the code consistently.(ˆ˜öšøÿÿÿÿ
+[
+java:S1120I"EMake this line start after 12 spaces to indent the code consistently.(óàã
+Z
+java:S1120O"EMake this line start after 12 spaces to indent the code consistently.(¸®Ã'
+Z
+java:S1120T"DMake this line start after 4 spaces to indent the code consistently.(äØà«
+Z
+java:S1120]"DMake this line start after 4 spaces to indent the code consistently.(Ø¤ŒŠ
+l	java:S109U"RAssign this magic number 3 to a well-named constant, and use the constant instead.(Óî¼ßúÿÿÿÿ
+v
+java:S1488'"`Immediately return this expression instead of assigning it to the temporary variable "fragment".(¡ÀË
+4	java:S113"'Add a new line at the end of this file.
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ØÉ“@
+\
+java:S1106""AMove this left curly brace to the beginning of next line of code.(˜ÔæÑúÿÿÿÿ
+\
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(¤œÙ÷þÿÿÿÿ
+W
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(ßìê¯
+\
+java:S11062"AMove this left curly brace to the beginning of next line of code.(´ŒÐÚùÿÿÿÿ
+W
+java:S11069"AMove this left curly brace to the beginning of next line of code.(¡Œþø
+W
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(ŠÕ¾ñ
+\
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(ÕžÂþÿÿÿÿ
+\
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(ˆ˜öšøÿÿÿÿ
+W
+java:S1106N"AMove this left curly brace to the beginning of next line of code.(µ‘‚é
+V
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(¬Î—9
+\
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(¯ØëÉùÿÿÿÿ
+4
+java:S1451"&Add or update the header of this file.
+`	java:S103_"KSplit this 127 characters long line (which is greater than 120 authorized).(Ïõúž
+?
+java:S3306")Use constructor injection for this field.(˜¯Ý¿
+C
+java:S2039"-Explicitly declare the visibility for "view".(Éº –
+O
+java:S1135 "2Complete the task associated to this TODO comment.(õÃúÊ8½¸¼úª0
+>
+java:S1185,"(Remove this method to simply inherit it.(ßìê¯
+V
+java:S1854C"@Remove this useless assignment to local variable "rvSearchList".(³—½ª
+G
+java:S1481C"1Remove this unused "rvSearchList" local variable.(³—½ª

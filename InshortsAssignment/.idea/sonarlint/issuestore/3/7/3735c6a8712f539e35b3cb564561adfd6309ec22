@@ -1,0 +1,65 @@
+
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(éÒ‰Çüÿÿÿÿ8ü—½Ğ¨0
+a
+java:S11205"DMake this line start after 4 spaces to indent the code consistently.(¼ˆåÈ8º¶ÃĞ¨0
+f
+java:S1120E"DMake this line start after 4 spaces to indent the code consistently.(âÍÒ¯ûÿÿÿÿ8ÿŠÃĞ¨0
+f
+java:S1120I"DMake this line start after 4 spaces to indent the code consistently.(½òÁ±şÿÿÿÿ8€‹ÃĞ¨0
+a
+java:S1120N"DMake this line start after 4 spaces to indent the code consistently.(ì”Å©8€‹ÃĞ¨0
+f
+java:S1120R"DMake this line start after 4 spaces to indent the code consistently.(„ÌˆÊúÿÿÿÿ8€‹ÃĞ¨0
+`
+java:S1120V"DMake this line start after 4 spaces to indent the code consistently.(¾êl8€‹ÃĞ¨0
+a
+java:S1120Z"DMake this line start after 4 spaces to indent the code consistently.(¸¡†…8€‹ÃĞ¨0
+a
+java:S1120^"DMake this line start after 4 spaces to indent the code consistently.(¿³²Ä8€‹ÃĞ¨0
+f
+java:S1120b"DMake this line start after 4 spaces to indent the code consistently.(Šß½–øÿÿÿÿ8€‹ÃĞ¨0
+a
+java:S1120f"DMake this line start after 4 spaces to indent the code consistently.(¥´Îê8€‹ÃĞ¨0
+a
+java:S1120j"DMake this line start after 4 spaces to indent the code consistently.(í¸µ‘8€‹ÃĞ¨0
+f
+java:S1120n"DMake this line start after 4 spaces to indent the code consistently.(ËĞüÿÿÿÿÿ8€‹ÃĞ¨0
+f
+java:S1120r"DMake this line start after 4 spaces to indent the code consistently.(¿·’ßüÿÿÿÿ8€‹ÃĞ¨0
+a
+java:S1120v"DMake this line start after 4 spaces to indent the code consistently.(Ÿ´áÅ8Â×âĞ¨0
+^	java:S1074"BConstructor has 13 parameters, which is greater than 7 authorized.(¨„¬²8¼¶ÃĞ¨0
+c
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(Õ™„­ıÿÿÿÿ8€˜½Ğ¨0
+^
+java:S11064"AMove this left curly brace to the beginning of next line of code.(¨„¬²8„‹ÃĞ¨0
+^
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(§½Û›8„‹ÃĞ¨0
+^
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(¼å’ª8„‹ÃĞ¨0
+c
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(§ß»éıÿÿÿÿ8„‹ÃĞ¨0
+^
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(òô¢Ë8„‹ÃĞ¨0
+c
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(³”©‹şÿÿÿÿ8„‹ÃĞ¨0
+^
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(ƒ‘Ù‚8„‹ÃĞ¨0
+c
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(—ÃÕêüÿÿÿÿ8„‹ÃĞ¨0
+^
+java:S1106a"AMove this left curly brace to the beginning of next line of code.(’íüé8„‹ÃĞ¨0
+c
+java:S1106e"AMove this left curly brace to the beginning of next line of code.(âÃ¸šûÿÿÿÿ8„‹ÃĞ¨0
+c
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(µ¬¡úøÿÿÿÿ8„‹ÃĞ¨0
+^
+java:S1106m"AMove this left curly brace to the beginning of next line of code.(‚ıÃ8„‹ÃĞ¨0
+c
+java:S1106q"AMove this left curly brace to the beginning of next line of code.(„†ô¼ûÿÿÿÿ8¿¶ÃĞ¨0
+c
+java:S1106u"AMove this left curly brace to the beginning of next line of code.(–Œ¡¢ùÿÿÿÿ8È×âĞ¨0
+4
+java:S1451"&Add or update the header of this file.
+g	java:S1034"KSplit this 268 characters long line (which is greater than 120 authorized).(¨„¬²8ßÏàĞ¨0
